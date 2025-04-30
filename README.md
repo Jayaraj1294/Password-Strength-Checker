@@ -6,7 +6,7 @@
 
 ## Overview of the Project
 
-### Project: Password Strength Checker
+### Project: Password Strength Checker -- SecurePass
 
 ### Objective
 This project aims to give users visible feedback regarding the strength, length, and complexity of the passwords they have typed. gives you an indication of how secure your passwords are. 
